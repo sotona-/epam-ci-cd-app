@@ -9,7 +9,7 @@ pipeline {
         }
 	stage('Ls -la') {
             steps {
-                sh 'sseesl s 2 -la'
+                sh 'sse esl s 2 -la'
             }
         }
     }
